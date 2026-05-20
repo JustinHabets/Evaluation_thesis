@@ -1,0 +1,6 @@
+These are only suggestions. Feel free to use your own approach.
+
+- Are there any differences in the LoanGoal, ApplicationType, or RequestedAmount distributions between the two subsets?
+- Do the two subsets differ in throughput time per case?
+- Do resources differ between the two subsets?
+- Is there a difference in the number of events per case?
